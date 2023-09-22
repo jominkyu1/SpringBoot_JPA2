@@ -20,8 +20,6 @@ public class MemberVO { //회원 Entity빈 클래스
 
     @Id //엔티티 빈을 식별할 수 있도록 해주는 식별키(구분키) : PK
     private String uid2; //회원아이디
-
     private String upw; //비밀번호
-    
     private String uname; //회원이름
 }
